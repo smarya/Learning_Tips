@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Learning_Tips
 //
-//  Created by IBM-MOBILITY on 29/10/18.
+//  Created by DurgaPrasad on 29/10/18.
 //  Copyright © 2018 DurgaPrasad. All rights reserved.
 //
 
